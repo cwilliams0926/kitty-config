@@ -1,0 +1,15 @@
+# Font
+font_family      Hack Nerd Font Mono
+font_size        13.0
+
+# Cursor
+cursor_shape     beam
+
+# Window padding
+window_padding_width 8
+
+# True color + undercurl (important for Neovim)
+term xterm-256color
+
+# Tab bar
+tab_bar_style powerline
