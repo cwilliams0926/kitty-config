@@ -10,7 +10,6 @@ italic_font        auto
 bold_italic_font   auto
 font_size 13.0
 adjust_column_width 1
-modify_font italic_cell_width 110%
 
 # cursor customization
 # block / beam / underline
@@ -30,7 +29,6 @@ term xterm-256color
 tab_bar_style powerline
 
 hide_window_decorations no
-enable_kitty_keyboard_protocol no
 
 # terminal bell
 enable_audio_bell no
@@ -47,8 +45,8 @@ mouse_hide_wait -1
 
 # window layout
 remember_window_size  no
-initial_window_width  1200
-initial_window_height 750
+initial_window_width  100cc
+initial_window_height 50cc
 window_border_width 1.5pt
 enabled_layouts tall
 window_padding_width 0
